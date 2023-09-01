@@ -10,7 +10,7 @@ Gdamn, it looks delicious. The goal here is to set up a guide to make swedish me
 
 - 1 pound of beef (**what ratio of beef tho?**)
 - 1 pound of pork (**what about chorizo, idk that sounds kinda good, chorizo meatballs?**)
-- Sauté one *onion* (**but like to what degree, like carmelized o just before carmelized?**)
+- Sauté one *onion* (**but like to what degree, like carmelized or just before carmelized?**)
 
 ## Pressgurka
 
