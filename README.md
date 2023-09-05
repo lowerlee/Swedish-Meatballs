@@ -15,11 +15,11 @@ The goal here is to set up a guide to make swedish meatballs
 - panko
 - minced garlic
 
-## Pressgurka
+## Pressgurka ([Caroline's Cooking](https://www.carolinescooking.com/pressgurka-swedish-pressed-cucumber/))
 
 ## Lingonberry Jam
 
-## Da Roast Garlic Gravy
+## Roasted Garlic Gravy ([Spoon Fork Bacon](https://www.spoonforkbacon.com/roasted-garlic-gravy-recipe/))
 
 - Roast garlic (**Figure out how much garlic to use, and how to make**)
 
