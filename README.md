@@ -16,6 +16,7 @@ The goal here is to set up a guide to make swedish meatballs
 - minced garlic
 
 ## Pressgurka ([Caroline's Cooking](https://www.carolinescooking.com/pressgurka-swedish-pressed-cucumber/))
+<img src="[https://pinchofyum.com/wp-content/uploads/Swedish-Meatballs-Square-1.jpg](https://images.recept.se/images/recipes/pressgurka-med-chili-och-vitlok_21348.jpg?fit=crop&crop=focalpoint&auto=format&fp-x=0.5&fp-y=0.5&fp-z=1.0&w=1200&h=628)" width="800">
 
 ## Lingonberry Jam
 
