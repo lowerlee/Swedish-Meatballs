@@ -2,7 +2,7 @@
 
 The goal here is to set up a guide to make swedish meatballs 
 
-## Look at this
+## Goal: Make somethat looks as good as this and tastes as good as it looks
 
 <img src="https://pinchofyum.com/wp-content/uploads/Swedish-Meatballs-Square-1.jpg" width="800">
 
