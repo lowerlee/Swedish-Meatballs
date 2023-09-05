@@ -15,7 +15,7 @@ The goal here is to set up a guide to make swedish meatballs
 - panko
 - minced garlic
 
-## Pressgurka ([Caroline's Cooking](https://www.carolinescooking.com/pressgurka-swedish-pressed-cucumber/))
+## Pressgurka ([Caroline's Cooking](https://www.carolinescooking.com/pressgurka-swedish-pressed-cucumber/)) (peppers not included in her recipe)
 <img src="https://images.recept.se/images/recipes/pressgurka-med-chili-och-vitlok_21348.jpg?fit=crop&crop=focalpoint&auto=format&fp-x=0.5&fp-y=0.5&fp-z=1.0&w=800&h=570&auto=format" width="800">
 
 ## Lingonberry Jam
