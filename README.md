@@ -1,6 +1,6 @@
 # Swedish Meatballs
 
-Gdamn, it looks delicious. The goal here is to set up a guide to make swedish meatballs 
+The goal here is to set up a guide to make swedish meatballs 
 
 ## Look at this
 
