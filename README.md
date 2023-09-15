@@ -11,9 +11,9 @@ The goal here is to set up a guide to make swedish meatballs
 - 1 pound of beef (**what ratio of beef tho?**)
 - 1 pound of pork (**what about chorizo, idk that sounds kinda good, chorizo meatballs?**)
 - Sauté one *onion* (**but like to what degree, like carmelized or just before carmelized?**)
-- nutmeg
-- panko
-- minced garlic
+- Nutmeg
+- Panko
+- Minced garlic
 
 ## Pressgurka ([Caroline's Cooking](https://www.carolinescooking.com/pressgurka-swedish-pressed-cucumber/)) (peppers not included in her recipe)
 <img src="https://images.recept.se/images/recipes/pressgurka-med-chili-och-vitlok_21348.jpg?fit=crop&crop=focalpoint&auto=format&fp-x=0.5&fp-y=0.5&fp-z=1.0&w=800&h=570&auto=format" width="800">
