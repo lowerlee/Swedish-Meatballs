@@ -12,6 +12,7 @@ The goal here is to set up a guide to make swedish meatballs
 - 1 pound of pork (**what about chorizo, idk that sounds kinda good, chorizo meatballs?**)
 - Sauté one *onion* (**but like to what degree, like carmelized or just before carmelized?**)
 - Nutmeg
+- All Spice
 - Panko
 - Minced garlic
 
